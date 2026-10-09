@@ -435,11 +435,3 @@ KVM을 사용할 수 없다면 다음 사항을 확인하세요.
 ## 면책 조항 ⚖️
 
 이 프로젝트에서 언급한 제품 이름, 로고, 브랜드 및 기타 상표는 각 상표권자의 소유입니다. 이 프로젝트는 Microsoft Corporation과 제휴 관계가 없으며, Microsoft의 후원이나 보증을 받지 않습니다.
-
----
-
-관련 링크:
-- [프로젝트 저장소](https://github.com/dockur/windows/)
-- [Docker Hub 이미지](https://hub.docker.com/r/dockurr/windows/)
-- [Docker Hub 태그](https://hub.docker.com/r/dockurr/windows/tags)
-- [GitHub 패키지](https://github.com/dockur/windows/pkgs/container/windows)
